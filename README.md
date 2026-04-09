@@ -33,10 +33,10 @@ This project involves a comprehensive end-to-end analysis of 30,000+ NYC taxi tr
 * **Data Visualization:** Excel (PivotCharts, Dashboards)
 * **Analytical Techniques:** Data Aggregation, SQL Join Operations, Risk Modeling
 
-##  Project Structure
-* `Dashboard/`: Final Excel dashboard containing four key visualizations.
-* `SQL_Queries/`: Raw `.sql` files used for data extraction and cleaning.
-* `Data/`: (Optional) Summary data or links to public datasets used.
+## Project Structure
+* [SQL_Queries/](./SQL_Queries/): Contains raw `.sql` scripts for data cleaning and aggregation.
+* [Dashboard/](./Dashboard/): Includes the final Excel `.xlsx` file and static screenshots.
+* [Database/](./Database/): The original Microsoft Access `.accdb` file.
 
 ##  Sample SQL Logic
 I utilized advanced SQL queries to engineer the data before visualization. For example, to calculate the average distance per passenger group while filtering for valid data:
