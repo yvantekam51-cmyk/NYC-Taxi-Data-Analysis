@@ -5,8 +5,14 @@ This project involves a comprehensive end-to-end analysis of 30,000+ NYC taxi tr
   <p align="center">
   <img src="https://github.com/user-attachments/assets/fedffa8a-9995-403c-bb20-c1aeafa0f134" width="800" alt="NYC Taxi Analysis Dashboard">
 </p>
+
 ## Key Insights
-* **Market Distribution:** One of my main discoberies is that 28% of all total treip volumes comes from Staten Island , I identified it as a primary service hub within this dataset.
+
+* **Market Distribution:** One of my main discoberies is that 28% of all total trip volumes comes from Staten Island , I identified it as a primary service hub within this dataset.
+ <p align="center">
+  <img src="https://github.com/user-attachments/assets/aca8a827-6c5b-41ae-85c5-228e5ec6a2f4" width="500" alt="NYC Taxi Analysis Dashboard">
+</p>
+
 * **Customer Loyalty:** I Segmented the top 1% of riders in other to analyze the repeat-usage patterns and thier revenue contribution.
 * **Behavioral Analysis:** In this experiment I discovered that solo travelers and large groups (7+ passengers) cover the longest average distances, suggesting thatspecific use cases like airport transfers.
 * **Operational Risk:**  'Cash' and 'Unknown' payment methods was dicovered to account for the majority of transaction failures, highlighting areas for fintech-driven process improvement.
