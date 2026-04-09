@@ -8,7 +8,7 @@ This project involves a comprehensive end-to-end analysis of 30,000+ NYC taxi tr
 
 ## Key Insights
 
-* **Market Distribution:** One of my main discoberies is that 28% of all total trip volumes comes from Staten Island , I identified it as a primary service hub within this dataset.
+* **Market Distribution:** One of my main discoveries is that 28% of all total trip volumes comes from Staten Island , I identified it as a primary service hub within this dataset.
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5844e2df-48cc-448d-9113-34fca32aebb2" width="500" alt="NYC Taxi Analysis Dashboard">
 </p>
