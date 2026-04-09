@@ -9,15 +9,24 @@ This project involves a comprehensive end-to-end analysis of 30,000+ NYC taxi tr
 ## Key Insights
 
 * **Market Distribution:** One of my main discoberies is that 28% of all total trip volumes comes from Staten Island , I identified it as a primary service hub within this dataset.
-  <img width="1318" height="788" alt="image" src="https://github.com/user-attachments/assets/5844e2df-48cc-448d-9113-34fca32aebb2" />
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5844e2df-48cc-448d-9113-34fca32aebb2" width="500" alt="NYC Taxi Analysis Dashboard">
 </p>
 
 * **Customer Loyalty:** I Segmented the top 1% of riders in other to analyze the repeat-usage patterns and thier revenue contribution.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1faa7480-8908-4486-8fb8-e75f36933ab5" width="500" alt="NYC Taxi Analysis Dashboard">
+</p>
+
 * **Behavioral Analysis:** In this experiment I discovered that solo travelers and large groups (7+ passengers) cover the longest average distances, suggesting thatspecific use cases like airport transfers.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/539ff1b5-8379-438a-87bc-02fbf6201ad1" width="500" alt="NYC Taxi Analysis Dashboard">
+</p>
+
 * **Operational Risk:**  'Cash' and 'Unknown' payment methods was dicovered to account for the majority of transaction failures, highlighting areas for fintech-driven process improvement.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e6d12d44-bbd2-4a49-bbf8-7bc527d86f23" width="500" alt="NYC Taxi Analysis Dashboard">
+</p>
 
 ## Technical Stack
 * **Database Management:** Microsoft Access (SQL)
