@@ -2,8 +2,8 @@
 Analyzing 30,000 + NYC records using SQL and Excel interactive dashboard. This is to identify regional demand and operational risk.
 ## Project Overview
 This project involves a comprehensive end-to-end analysis of 30,000+ NYC taxi trip records. Utilizing **SQL (Microsoft Access)** for data engineering and **Excel** for business intelligence, I transformed raw transactional data into actionable insights focused on customer loyalty, regional demand, and operational efficiency.
-<img width="1721" height="1086" alt="image" src="https://github.com/user-attachments/assets/a3b01a34-6331-49ca-b406-b2a0d1cb40de" />
-
+<p align="center">
+  <img src="</p><img width="1721" height="1086" alt="image" src="https://github.com/user-attachments/assets/a3b01a34-6331-49ca-b406-b2a0d1cb40de" />" width="800">
 ## Key Insights
 * **Market Distribution:** One of my main discoberies is that 28% of all total treip volumes comes from Staten Island , I identified it as a primary service hub within this dataset.
 * **Customer Loyalty:** I Segmented the top 1% of riders in other to analyze the repeat-usage patterns and thier revenue contribution.
